@@ -2,5 +2,6 @@
 <database>
     <element label="My Table" max_length="40" name="x_amspa_service_my_table" type="collection">
         <element label="My Column" max_length="40" name="my_column" type="string"/>
+        <element label="New Column" max_length="50" name="new_column" type="string"/>
     </element>
 </database>
