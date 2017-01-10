@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="My Table" max_length="40" name="x_amspa_service_my_table" type="collection">
+        <element label="My Column" max_length="40" name="my_column" type="string"/>
+    </element>
+</database>
